@@ -1,2 +1,2 @@
 # Projetos-JavaScript
- Projetos desenvolvidos com JavaScript para prática e aprendizado.
+Coleção de projetos em JavaScript, criados para praticar e aprimorar habilidades de programação. Inclui clones de aplicativos e inspirações em ideias existentes, utilizando também HTML e CSS. 
